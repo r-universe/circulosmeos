@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "bytescircle"]
+	path = bytescircle
+	url = https://github.com/circulosmeos/bytescircle
+	shallow = true
+	registered = true
